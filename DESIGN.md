@@ -54,9 +54,7 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
 - `index.html` — Home (Video Courses, Podcasts, Grammar & Reference, Courses & Tests)
 - `about.html` — About (sources, license, privacy, contact)
 - `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Regenerate `search.json` from page `<title>` tags whenever pages are added, removed, or retitled.
-- `video/index.html` — Video Courses hub
-  - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
-  - `video/gomaespuminglish/01.html` … `24.html`
+- `video/index.html` — Video Courses hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish)
   - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
   - `video/thats-english/module-1.html` … `module-9.html` — 22 programmes per module
   - `video/thats-english/001.html` … `198.html`
@@ -70,12 +68,14 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `video/rumbo-al-ingles/01.html` … `33.html`
   - `video/follow-me.html` — 30 parts
   - `video/follow-me/01.html` … `30.html`
-- `audio/index.html` — Podcasts hub
-  - `audio/alema.html` — 13 lessons (link list, no embeds)
-  - `audio/alema/01.html` … `13.html`
+  - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
+  - `video/gomaespuminglish/01.html` … `24.html`
+- `audio/index.html` — Podcasts hub (Tu Inglés, Alema, Gramática Popular)
   - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
   - `audio/tu-ingles/items-01-20.html` … `items-81-82.html` — five item ranges
   - `audio/tu-ingles/01.html` … `82.html`
+  - `audio/alema.html` — 13 lessons (link list, no embeds)
+  - `audio/alema/01.html` … `13.html`
   - `audio/gramatica-popular.html` — 34 lessons
   - `audio/gramatica-popular/01.html` … `34.html`
 - `text/index.html` — Grammar & Reference hub
