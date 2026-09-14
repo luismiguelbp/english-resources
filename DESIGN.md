@@ -13,7 +13,7 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - Mobile-first. One column by default. Widen the reading column on large screens; do not add a second content column unless a page needs it.
 - Hub and Home cards may wrap 2 columns on tablet and 3 on desktop. Series, article, and resource lists stay one stacked column at every breakpoint.
 - Viewport meta on every HTML page: `width=device-width, initial-scale=1`.
-- Sticky or short top nav: Home, the main sections (Video Courses, Podcasts, Grammar & Reference, Courses & Tests), and Search. Keep nav labels in English.
+- Sticky or short top nav: Home, the main sections (Videos, Podcasts, Grammar & Reference, Courses & Tests), and Search. Keep nav labels in English.
 - Every non-home page has a static breadcrumb above `<h1>` (`aria-label="Breadcrumb"`). Home has no breadcrumb. Use relative links for the ancestor trail; the last item is the current page title, not a link, with `aria-current="page"`.
 - Prefer many short pages over one long scroll for series (one module, level, or block of lessons per page).
 - Use overview cards to open those smaller catalog pages. Use jump links only when a long page cannot be split naturally.
@@ -54,12 +54,12 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 
 Publish legacy `http://` outbound links from the source notes when no HTTPS target is recorded. Restore truncated YouTube ids when the official 11-character id is confirmed. Omit lessons whose official video is still missing.
 
-- `index.html` — Home (Video Courses, Podcasts, Grammar & Reference, Courses & Tests)
+- `index.html` — Home (Videos, Podcasts, Grammar & Reference, Courses & Tests)
 - `about.html` — About (sources, license, privacy, contact)
 - `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Whenever pages are added, removed, or retitled, update `search.json` from page `<title>` tags, `sitemap.xml`, and (for a new series or lesson) `feed.xml`. Follow `.agents/skills/update-site/SKILL.md`.
 - `sitemap.xml` — One URL per HTML page. Absolute GitHub Pages loc. Maintain by hand.
 - `feed.xml` — RSS 2.0 catalog of video and podcast series hubs and lesson pages. `pubDate` is the episode date from YouTube, iVoox, Duolingo, Libsyn, or RTVE when available. Newest first. Autodiscovery link lives in `index.html`; copy it onto new pages.
-- `video/index.html` — Video Courses hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish)
+- `video/index.html` — Videos hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish)
   - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
   - `video/thats-english/module-1.html` … `module-9.html` — 22 programmes per module
   - `video/thats-english/001.html` … `198.html`
@@ -79,11 +79,11 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
   - `audio/tu-ingles/items-01-20.html` … `items-81-82.html` — five item ranges
   - `audio/tu-ingles/01.html` … `82.html`
-  - `audio/alema.html` — 13 lessons (link list, no embeds)
+  - `audio/alema-aprende-ingles.html` — 13 lessons (link list, no embeds)
   - `audio/alema/01.html` … `13.html`
   - `audio/gramatica-popular.html` — 34 lessons
   - `audio/gramatica-popular/01.html` … `34.html`
-  - `audio/relatos-en-ingles.html` — 12 seasons in catalog order (105 items)
+  - `audio/duolingo-relatos-en-ingles.html` — 12 seasons in catalog order (105 items)
   - `audio/relatos-en-ingles/temporada-1.html` … `temporada-12.html`
   - `audio/relatos-en-ingles/01.html` … `105.html`
   - `audio/duolingo-spanish.html` — 20 seasons in catalog order (170 items; Spanish-learning)

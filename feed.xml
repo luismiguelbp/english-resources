@@ -3,7 +3,7 @@
   <channel>
     <title>English Resources — Catalog</title>
     <link>https://luismiguelbp.github.io/english-resources/</link>
-    <description>Inventory of video courses and podcasts indexed on English Resources. pubDate is the episode date from YouTube, iVoox, Duolingo, or RTVE when available.</description>
+    <description>Inventory of videos and podcasts indexed on English Resources. pubDate is the episode date from YouTube, iVoox, Duolingo, or RTVE when available.</description>
     <language>en</language>
     <lastBuildDate>Wed, 06 Mar 2024 01:00:00 +0000</lastBuildDate>
     <item>
@@ -1648,8 +1648,8 @@
     </item>
     <item>
       <title>Relatos en inglés con Duolingo</title>
-      <link>https://luismiguelbp.github.io/english-resources/audio/relatos-en-ingles.html</link>
-      <guid>https://luismiguelbp.github.io/english-resources/audio/relatos-en-ingles.html</guid>
+      <link>https://luismiguelbp.github.io/english-resources/audio/duolingo-relatos-en-ingles.html</link>
+      <guid>https://luismiguelbp.github.io/english-resources/audio/duolingo-relatos-en-ingles.html</guid>
       <category>Podcasts</category>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       <description>105 episodes. Real-life stories in easy English, with Spanish context.</description>
@@ -2138,7 +2138,7 @@
       <title>49 — 'Is not doing — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/49.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/49.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 04 Jun 2018 02:47:44 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2146,7 +2146,7 @@
       <title>37 — I'm talking — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/37.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/37.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 24 May 2018 03:37:40 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2154,7 +2154,7 @@
       <title>93 — “Does he…? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/93.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/93.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 16 May 2018 03:15:00 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2162,7 +2162,7 @@
       <title>87 — “I usually… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/87.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/87.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 08 May 2018 03:00:04 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2170,7 +2170,7 @@
       <title>85 — “We have lunch…? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/85.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/85.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 04 May 2018 02:38:36 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2178,7 +2178,7 @@
       <title>83 — “How many bedrooms…? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/83.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/83.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 02 May 2018 03:30:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2186,7 +2186,7 @@
       <title>80 — “He has… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/80.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/80.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 27 Apr 2018 02:52:24 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2194,7 +2194,7 @@
       <title>74 — “What’s the weather like? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/74.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/74.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 19 Apr 2018 03:13:23 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2202,7 +2202,7 @@
       <title>69 — 'Are there any biscuits left? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/69.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/69.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 12 Apr 2018 03:15:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2210,7 +2210,7 @@
       <title>68 — 'Is there any… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/68.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/68.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 11 Apr 2018 03:00:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2218,7 +2218,7 @@
       <title>67 — 'Is there — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/67.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/67.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 10 Apr 2018 03:30:00 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2226,7 +2226,7 @@
       <title>66 — 'There aren’t — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/66.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/66.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 09 Apr 2018 03:30:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2234,7 +2234,7 @@
       <title>65 — 'There isn’t — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/65.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/65.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 06 Apr 2018 03:30:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2242,7 +2242,7 @@
       <title>64 — 'There’s isn’t — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/64.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/64.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 05 Apr 2018 05:24:55 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2250,7 +2250,7 @@
       <title>63 — 'There’s — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/63.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/63.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 04 Apr 2018 01:47:28 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2258,7 +2258,7 @@
       <title>61 — 'There's — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/61.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/61.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 02 Apr 2018 02:12:57 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2266,7 +2266,7 @@
       <title>60 — ' When — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/60.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/60.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 30 Mar 2018 03:00:34 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2274,7 +2274,7 @@
       <title>59 — ' Is it going to? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/59.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/59.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 29 Mar 2018 05:00:09 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2282,7 +2282,7 @@
       <title>56 — 'They're going to — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/56.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/56.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 27 Mar 2018 04:56:31 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2290,7 +2290,7 @@
       <title>57 — 'I'm not going to — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/57.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/57.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 27 Mar 2018 02:21:30 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2298,7 +2298,7 @@
       <title>55 — 'He's going to.. — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/55.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/55.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 23 Mar 2018 03:19:49 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2306,7 +2306,7 @@
       <title>54 — 'I'm going to.. — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/54.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/54.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 22 Mar 2018 07:32:24 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2314,7 +2314,7 @@
       <title>53 — 'we aren't going — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/53.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/53.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 21 Mar 2018 04:28:53 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2322,7 +2322,7 @@
       <title>52 — 'Are you going...? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/52.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/52.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 20 Mar 2018 05:27:56 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2330,7 +2330,7 @@
       <title>51 — 'She's not — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/51.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/51.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 19 Mar 2018 05:30:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2338,7 +2338,7 @@
       <title>50 — 'Are you doing — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/50.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/50.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 16 Mar 2018 03:54:40 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2346,7 +2346,7 @@
       <title>48 — 'Are you staying? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/48.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/48.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 14 Mar 2018 05:32:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2354,7 +2354,7 @@
       <title>47 — 'Is your mother coming too? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/47.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/47.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 13 Mar 2018 03:11:56 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2362,7 +2362,7 @@
       <title>46 — 'You're very quiet — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/46.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/46.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 12 Mar 2018 04:14:07 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2370,7 +2370,7 @@
       <title>45 — 'Why are you...? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/45.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/45.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 09 Mar 2018 03:39:11 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2378,7 +2378,7 @@
       <title>44 — 'He's giving it to Pilar — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/44.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/44.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 08 Mar 2018 03:48:36 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2386,7 +2386,7 @@
       <title>43 — ''He's looking for — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/43.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/43.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 07 Mar 2018 02:23:22 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2394,7 +2394,7 @@
       <title>42 — ''Are you looking at me? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/42.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/42.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 06 Mar 2018 03:01:52 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2402,7 +2402,7 @@
       <title>41 — 'She's asking them a question about the new project — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/41.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/41.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 05 Mar 2018 02:52:37 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2410,7 +2410,7 @@
       <title>38 — 'Are you sitting or standing? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/38.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/38.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 28 Feb 2018 03:10:28 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2418,7 +2418,7 @@
       <title>36 — What are you doing? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/36.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/36.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 26 Feb 2018 04:40:49 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2426,7 +2426,7 @@
       <title>35 — Which Side — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/35.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/35.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 23 Feb 2018 04:51:39 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2434,7 +2434,7 @@
       <title>34 — 'Where are... — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/34.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/34.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 22 Feb 2018 02:30:01 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2442,7 +2442,7 @@
       <title>33 — 'Which one is next to the sofa? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/33.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/33.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 21 Feb 2018 02:47:44 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2450,7 +2450,7 @@
       <title>32 — 'The big one or the small one? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/32.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/32.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 20 Feb 2018 02:42:23 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2458,7 +2458,7 @@
       <title>31 — Diferencia entre BORING y BORED — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/31.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/31.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 19 Feb 2018 02:54:18 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2466,7 +2466,7 @@
       <title>30 — 'She isn't cold, she's hot — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/30.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/30.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 16 Feb 2018 03:33:08 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2474,7 +2474,7 @@
       <title>29 — 'Is he hungry or thirsty? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/29.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/29.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 15 Feb 2018 02:23:20 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2482,7 +2482,7 @@
       <title>28 — 'They're wrong — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/28.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/28.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 14 Feb 2018 02:09:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2490,7 +2490,7 @@
       <title>27 — 'You're completely wrong — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/27.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/27.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 13 Feb 2018 03:02:43 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2498,7 +2498,7 @@
       <title>26 — 'My parents aren't from germany — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/26.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/26.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 12 Feb 2018 03:15:31 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2506,7 +2506,7 @@
       <title>25 — 'She's from France — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/25.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/25.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 09 Feb 2018 02:38:47 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2514,7 +2514,7 @@
       <title>24 — 'As well — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/24.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/24.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 08 Feb 2018 03:14:10 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2522,7 +2522,7 @@
       <title>23 — 'Are they in front or in the back? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/23.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/23.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 07 Feb 2018 02:52:46 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2530,7 +2530,7 @@
       <title>Feel like — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/12.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/12.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 05 Feb 2018 09:02:20 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2538,7 +2538,7 @@
       <title>Was/were born — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/23.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/23.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 05 Feb 2018 08:46:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2546,7 +2546,7 @@
       <title>21 — 'Are you in front of her? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/21.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/21.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 05 Feb 2018 04:00:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2554,7 +2554,7 @@
       <title>20 — 'I'm opposite them — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/20.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/20.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 02 Feb 2018 03:24:45 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2562,7 +2562,7 @@
       <title>19 — 'Chinese is a difficult language too — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/19.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/19.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 01 Feb 2018 03:21:45 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2578,7 +2578,7 @@
       <title>18 — 'How far is it? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/18.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/18.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 31 Jan 2018 02:59:40 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2586,7 +2586,7 @@
       <title>17 — 'Close to — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/17.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/17.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 30 Jan 2018 03:04:49 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2594,7 +2594,7 @@
       <title>To pick up — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/22.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/22.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 29 Jan 2018 10:12:14 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2602,7 +2602,7 @@
       <title>Short Answers — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/33.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/33.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 29 Jan 2018 09:57:41 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2610,7 +2610,7 @@
       <title>Locations Review — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/11.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/11.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 29 Jan 2018 09:55:07 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2618,7 +2618,7 @@
       <title>16 — NEAR &amp; FAR — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/16.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/16.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 29 Jan 2018 08:30:23 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2626,7 +2626,7 @@
       <title>15 — 'Is the phone on the table? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/15.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/15.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 26 Jan 2018 06:10:51 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2634,7 +2634,7 @@
       <title>14 — How to use 'NEAR — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/14.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/14.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 25 Jan 2018 02:13:28 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2650,7 +2650,7 @@
       <title>13 — 'This isn't Peter's document. It's Richard's — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/13.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/13.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 23 Jan 2018 23:00:00 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2658,7 +2658,7 @@
       <title>12 — 'This phone isn't mine, it's his — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/12.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/12.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 23 Jan 2018 02:28:10 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2666,7 +2666,7 @@
       <title>There + TO BE — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/32.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/32.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 22 Jan 2018 09:09:18 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2674,7 +2674,7 @@
       <title>Comparatives — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/21.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/21.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 22 Jan 2018 09:01:56 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2682,7 +2682,7 @@
       <title>11 — 'Are these shoes yours? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/11.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/11.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 22 Jan 2018 03:37:19 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2690,7 +2690,7 @@
       <title>10 — ¿Cómo se pronuncia THESE? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/10.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/10.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 18 Jan 2018 23:00:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2698,7 +2698,7 @@
       <title>09 — Those aren't plates — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/09.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/09.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 17 Jan 2018 23:00:01 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2714,7 +2714,7 @@
       <title>08 — These aren't my pens — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/08.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/08.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 17 Jan 2018 02:20:47 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2722,7 +2722,7 @@
       <title>07 — Who is it? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/07.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/07.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 15 Jan 2018 23:00:00 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2730,7 +2730,7 @@
       <title>REVIEW — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/31.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/31.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 15 Jan 2018 09:08:07 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2738,7 +2738,7 @@
       <title>REVIEW — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/20.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/20.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 15 Jan 2018 08:51:36 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2746,7 +2746,7 @@
       <title>"Big, small, short and long" — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/09.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/09.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 15 Jan 2018 08:38:59 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2754,7 +2754,7 @@
       <title>06 — Is this Mr. Pilgram? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/06.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/06.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 15 Jan 2018 02:00:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2762,7 +2762,7 @@
       <title>05 — El Interrogativo - Is that your telephone? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/05.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/05.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 12 Jan 2018 02:58:33 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2770,7 +2770,7 @@
       <title>04 — 'He is married to — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/04.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/04.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 11 Jan 2018 01:58:34 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2786,7 +2786,7 @@
       <title>03 — ¿Cómo presentar a personas? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/03.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/03.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 09 Jan 2018 22:00:04 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2794,7 +2794,7 @@
       <title>02 — This is &amp; This is not — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/02.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/02.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 09 Jan 2018 02:43:49 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2802,7 +2802,7 @@
       <title>Irregular verbs - Fight, forget, think... — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/30.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/30.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 08 Jan 2018 09:46:55 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2810,7 +2810,7 @@
       <title>Irregular verbs - Give, go and read — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/19.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/19.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 08 Jan 2018 09:43:26 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2818,7 +2818,7 @@
       <title>River, street and highway — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/08.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/08.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 08 Jan 2018 09:36:34 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2826,7 +2826,7 @@
       <title>01 — 'This is &amp; That is — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/01.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/01.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 08 Jan 2018 01:25:34 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2834,7 +2834,7 @@
       <title>Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 08 Jan 2018 01:25:34 -0800</pubDate>
       <description>93 episodes. Short repetition lessons on YouTube.</description>
     </item>
@@ -2850,7 +2850,7 @@
       <title>Vocabulary - City, Country and Town — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/07.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/07.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 01 Jan 2018 08:00:04 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2858,7 +2858,7 @@
       <title>FROM, TO, FOR &amp; SINCE — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/29.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/29.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 01 Jan 2018 08:00:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2866,7 +2866,7 @@
       <title>"TO SORT OUT" — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/28.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/28.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 25 Dec 2017 08:00:04 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2874,7 +2874,7 @@
       <title>Asking questions with the verb TO BE — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/06.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/06.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 25 Dec 2017 08:00:02 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2882,7 +2882,7 @@
       <title>WILL vs GOING TO — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/18.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/18.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 25 Dec 2017 08:00:00 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2898,7 +2898,7 @@
       <title>Direct &amp; Indirect Speech — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/27.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/27.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 18 Dec 2017 09:10:16 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2906,7 +2906,7 @@
       <title>GOING TO — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/17.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/17.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 18 Dec 2017 07:56:23 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2914,7 +2914,7 @@
       <title>This is a map of.... — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/05.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/05.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 18 Dec 2017 07:52:55 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2930,7 +2930,7 @@
       <title>Vocabulary (Harmful, stretching...) — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/26.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/26.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 11 Dec 2017 07:34:45 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2938,7 +2938,7 @@
       <title>Irregular verbs - SELL, SAY &amp; TELL — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/16.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/16.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 11 Dec 2017 07:23:32 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2946,7 +2946,7 @@
       <title>What´s this &amp; that? REPASO — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/04.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/04.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 11 Dec 2017 07:17:53 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2970,7 +2970,7 @@
       <title>Decimals, Fractions and Percentages — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/25.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/25.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 05 Dec 2017 04:33:27 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2978,7 +2978,7 @@
       <title>¿Cuál es la diferencia entre THIS &amp; THAT? — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/03.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/03.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 05 Dec 2017 04:00:45 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2986,7 +2986,7 @@
       <title>HOWEVER &amp; NEVERTHELESS - Expressing opposing ideas — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/14.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/14.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 27 Nov 2017 07:15:10 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -2994,7 +2994,7 @@
       <title>IS THIS A...? Interrogative form — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/02.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/02.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 27 Nov 2017 06:45:43 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3002,7 +3002,7 @@
       <title>The common spanglish mistakes... — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/24.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/24.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 20 Nov 2017 07:33:26 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3010,7 +3010,7 @@
       <title>Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 20 Nov 2017 03:11:39 -0800</pubDate>
       <description>33 videos. Vaughan follow-up grammar on YouTube.</description>
     </item>
@@ -3018,7 +3018,7 @@
       <title>THIS &amp; IT´S ¿Cómo usarlos? — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/01.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/01.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 20 Nov 2017 03:11:39 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3026,7 +3026,7 @@
       <title>Contracciones en el Futuro Simple - I´ll (I will) — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/13.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/13.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 20 Nov 2017 01:54:41 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3128,8 +3128,8 @@
     </item>
     <item>
       <title>Alema Aprende Inglés</title>
-      <link>https://luismiguelbp.github.io/english-resources/audio/alema.html</link>
-      <guid>https://luismiguelbp.github.io/english-resources/audio/alema.html</guid>
+      <link>https://luismiguelbp.github.io/english-resources/audio/alema-aprende-ingles.html</link>
+      <guid>https://luismiguelbp.github.io/english-resources/audio/alema-aprende-ingles.html</guid>
       <category>Podcasts</category>
       <pubDate>Mon, 09 May 2016 19:56:00 +0000</pubDate>
       <description>13 lessons. Hour-long lessons on iVoox.</description>
@@ -3146,7 +3146,7 @@
       <title>Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 02 Feb 2015 03:37:24 -0800</pubDate>
       <description>30 videos. Basic to Advanced on YouTube.</description>
     </item>
@@ -3154,7 +3154,7 @@
       <title>¿Cómo usar ABOUT TO? — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/15.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/15.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 13 Mar 2014 07:52:11 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3162,7 +3162,7 @@
       <title>Questions - Verb TO BE — Rumbo al inglés</title>
       <link>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/10.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/rumbo-al-ingles/10.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 10 Mar 2014 19:54:08 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3226,7 +3226,7 @@
       <title>Module 4 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/086.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/086.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 02 Jul 2012 06:44:43 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3234,7 +3234,7 @@
       <title>Module 1 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/001.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/001.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 05:01:33 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3242,7 +3242,7 @@
       <title>That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 05:01:33 -0700</pubDate>
       <description>198 programmes. TVE course on YouTube and RTVE.</description>
     </item>
@@ -3250,7 +3250,7 @@
       <title>Module 6 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/122.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/122.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:46:11 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3258,7 +3258,7 @@
       <title>Module 6 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/121.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/121.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:44:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3266,7 +3266,7 @@
       <title>Module 6 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/120.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/120.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:41:54 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3274,7 +3274,7 @@
       <title>Module 6 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/119.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/119.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:41:17 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3282,7 +3282,7 @@
       <title>Module 6 Unit 3 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/117.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/117.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:39:32 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3290,7 +3290,7 @@
       <title>Module 6 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/118.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/118.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:38:43 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3298,7 +3298,7 @@
       <title>Module 6 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/116.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/116.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:34:53 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3306,7 +3306,7 @@
       <title>Module 6 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/115.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/115.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:33:17 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3314,7 +3314,7 @@
       <title>Module 6 Unit 2 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/114.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/114.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:31:27 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3322,7 +3322,7 @@
       <title>Module 6 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/113.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/113.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:29:54 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3330,7 +3330,7 @@
       <title>Module 6 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/112.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/112.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:27:28 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3338,7 +3338,7 @@
       <title>Module 6 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/111.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/111.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 27 Jun 2012 00:25:24 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3346,7 +3346,7 @@
       <title>Module 5 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/110.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/110.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:55:05 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3354,7 +3354,7 @@
       <title>Module 5 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/108.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/108.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:52:12 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3362,7 +3362,7 @@
       <title>Module 5 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/109.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/109.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:51:50 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3370,7 +3370,7 @@
       <title>Module 5 Unit 7 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/107.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/107.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:48:47 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3378,7 +3378,7 @@
       <title>Module 5 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/106.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/106.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:48:00 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3386,7 +3386,7 @@
       <title>Module 5 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/104.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/104.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:39:29 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3394,7 +3394,7 @@
       <title>Module 5 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/105.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/105.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:38:30 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3402,7 +3402,7 @@
       <title>Module 5 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/103.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/103.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:35:40 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3410,7 +3410,7 @@
       <title>Module 5 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/102.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/102.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:30:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3418,7 +3418,7 @@
       <title>Module 5 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/101.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/101.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:28:28 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3426,7 +3426,7 @@
       <title>Module 5 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/100.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/100.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:27:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3434,7 +3434,7 @@
       <title>Module 5 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/098.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/098.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:24:20 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3442,7 +3442,7 @@
       <title>Module 5 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/099.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/099.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:22:19 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3450,7 +3450,7 @@
       <title>Module 5 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/097.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/097.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:20:37 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3458,7 +3458,7 @@
       <title>Module 5 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/096.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/096.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:16:36 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3466,7 +3466,7 @@
       <title>Module 5 Unit 3 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/095.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/095.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:16:24 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3474,7 +3474,7 @@
       <title>Module 5 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/094.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/094.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:13:58 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3482,7 +3482,7 @@
       <title>Module 5 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/093.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/093.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:12:25 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3490,7 +3490,7 @@
       <title>Module 5 Unit 2 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/092.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/092.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:06:55 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3498,7 +3498,7 @@
       <title>Module 5 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/090.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/090.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:05:54 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3506,7 +3506,7 @@
       <title>Module 5 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/091.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/091.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:05:37 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3514,7 +3514,7 @@
       <title>Module 5 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/089.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/089.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 07:02:32 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3522,7 +3522,7 @@
       <title>Module 4 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/088.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/088.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 06:28:50 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3530,7 +3530,7 @@
       <title>Module 4 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/087.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/087.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 06:14:02 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3538,7 +3538,7 @@
       <title>Module 4 Unit 7 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/085.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/085.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 06:04:47 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3546,7 +3546,7 @@
       <title>Module 4 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/084.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/084.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 06:01:19 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3554,7 +3554,7 @@
       <title>Module 4 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/082.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/082.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:59:30 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3562,7 +3562,7 @@
       <title>Module 4 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/083.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/083.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:57:31 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3570,7 +3570,7 @@
       <title>Module 4 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/081.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/081.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:52:37 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3578,7 +3578,7 @@
       <title>Module 4 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/080.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/080.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:47:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3586,7 +3586,7 @@
       <title>Module 4 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/079.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/079.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:43:32 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3594,7 +3594,7 @@
       <title>Module 4 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/078.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/078.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:38:36 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3602,7 +3602,7 @@
       <title>Module 4 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/077.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/077.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:36:30 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3610,7 +3610,7 @@
       <title>Module 4 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/076.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/076.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:33:06 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3618,7 +3618,7 @@
       <title>Module 4 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/075.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/075.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:30:27 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3626,7 +3626,7 @@
       <title>Module 4 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/074.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/074.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:26:38 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3634,7 +3634,7 @@
       <title>Module 4 Unit 3 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/073.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/073.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:20:13 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3642,7 +3642,7 @@
       <title>Module 4 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/072.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/072.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:16:34 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3650,7 +3650,7 @@
       <title>Module 4 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/071.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/071.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:15:26 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3658,7 +3658,7 @@
       <title>Module 4 Unit 2 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/070.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/070.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:12:31 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3666,7 +3666,7 @@
       <title>Module 4 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/069.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/069.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:11:37 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3674,7 +3674,7 @@
       <title>Module 4 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/068.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/068.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:09:58 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3682,7 +3682,7 @@
       <title>Module 4 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/067.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/067.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 05:07:21 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3690,7 +3690,7 @@
       <title>Module 3 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/066.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/066.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 04:09:48 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3698,7 +3698,7 @@
       <title>Module 3 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/064.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/064.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 04:07:02 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3706,7 +3706,7 @@
       <title>Module 3 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/065.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/065.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 04:07:02 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3714,7 +3714,7 @@
       <title>Module 3 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/062.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/062.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:58:40 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3722,7 +3722,7 @@
       <title>Module 3 Unit 7 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/063.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/063.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:58:07 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3730,7 +3730,7 @@
       <title>Module 3 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/061.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/061.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:52:21 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3738,7 +3738,7 @@
       <title>Module 3 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/060.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/060.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:51:07 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3746,7 +3746,7 @@
       <title>Module 3 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/059.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/059.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:44:20 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3754,7 +3754,7 @@
       <title>Module 3 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/058.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/058.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:44:02 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3762,7 +3762,7 @@
       <title>Module 3 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/057.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/057.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:39:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3770,7 +3770,7 @@
       <title>Module 3 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/056.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/056.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:38:06 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3778,7 +3778,7 @@
       <title>Module 3 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/054.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/054.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:34:27 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3786,7 +3786,7 @@
       <title>Module 3 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/055.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/055.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:32:10 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3794,7 +3794,7 @@
       <title>Module 3 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/052.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/052.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:29:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3802,7 +3802,7 @@
       <title>Module 3 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/053.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/053.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:28:07 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3810,7 +3810,7 @@
       <title>Module 3 Unit 3 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/051.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/051.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:24:04 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3818,7 +3818,7 @@
       <title>Module 3 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/050.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/050.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:20:59 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3826,7 +3826,7 @@
       <title>Module 3 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/049.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/049.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:18:22 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3834,7 +3834,7 @@
       <title>Module 3 Unit 2 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/048.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/048.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:16:14 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3842,7 +3842,7 @@
       <title>Module 3 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/047.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/047.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:15:59 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3850,7 +3850,7 @@
       <title>Module 3 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/046.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/046.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:14:39 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3858,7 +3858,7 @@
       <title>Module 3 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/045.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/045.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 03:08:20 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3866,7 +3866,7 @@
       <title>Module 2 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/043.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/043.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:49:12 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3874,7 +3874,7 @@
       <title>Module 2 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/042.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/042.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:45:13 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3882,7 +3882,7 @@
       <title>Module 2 Unit 7 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/041.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/041.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:39:37 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3890,7 +3890,7 @@
       <title>Module 2 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/040.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/040.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:36:46 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3898,7 +3898,7 @@
       <title>Module 2 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/039.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/039.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:32:39 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3906,7 +3906,7 @@
       <title>Module 2 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/038.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/038.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:30:13 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3914,7 +3914,7 @@
       <title>Module 2 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/037.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/037.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:28:53 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3922,7 +3922,7 @@
       <title>Module 2 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/036.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/036.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:25:54 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3930,7 +3930,7 @@
       <title>Module 2 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/034.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/034.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:23:03 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3938,7 +3938,7 @@
       <title>Module 2 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/035.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/035.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:22:14 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3946,7 +3946,7 @@
       <title>Module 2 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/032.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/032.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:19:20 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3954,7 +3954,7 @@
       <title>Module 2 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/031.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/031.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:16:48 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3962,7 +3962,7 @@
       <title>Module 2 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/033.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/033.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:16:34 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3970,7 +3970,7 @@
       <title>Module 2 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/030.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/030.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:10:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3978,7 +3978,7 @@
       <title>Module 2 Unit 3 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/029.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/029.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:10:33 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3986,7 +3986,7 @@
       <title>Module 2 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/028.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/028.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:07:09 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -3994,7 +3994,7 @@
       <title>Module 2 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/027.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/027.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:06:05 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4002,7 +4002,7 @@
       <title>Module 2 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/025.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/025.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:02:50 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4010,7 +4010,7 @@
       <title>Module 2 Unit 2 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/026.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/026.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 02:02:35 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4018,7 +4018,7 @@
       <title>Module 2 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/024.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/024.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:58:53 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4026,7 +4026,7 @@
       <title>Module 2 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/044.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/044.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:57:19 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4034,7 +4034,7 @@
       <title>Module 2 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/023.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/023.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:56:25 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4042,7 +4042,7 @@
       <title>Module 1 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/020.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/020.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:22:10 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4050,7 +4050,7 @@
       <title>Module 1 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/021.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/021.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:18:34 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4058,7 +4058,7 @@
       <title>Module 1 Unit 7 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/019.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/019.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:14:55 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4066,7 +4066,7 @@
       <title>Module 1 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/018.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/018.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:11:00 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4074,7 +4074,7 @@
       <title>Module 1 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/017.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/017.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:08:32 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4082,7 +4082,7 @@
       <title>Module 1 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/016.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/016.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:06:03 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4090,7 +4090,7 @@
       <title>Module 1 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/015.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/015.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:04:25 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4098,7 +4098,7 @@
       <title>Module 1 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/014.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/014.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:02:54 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4106,7 +4106,7 @@
       <title>Module 1 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/013.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/013.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 01:00:56 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4114,7 +4114,7 @@
       <title>Module 1 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/012.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/012.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:58:31 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4122,7 +4122,7 @@
       <title>Module 1 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/011.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/011.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:57:39 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4130,7 +4130,7 @@
       <title>Module 1 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/010.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/010.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:56:36 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4138,7 +4138,7 @@
       <title>Module 1 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/009.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/009.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:53:15 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4146,7 +4146,7 @@
       <title>Module 1 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/008.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/008.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:51:06 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4154,7 +4154,7 @@
       <title>Module 1 Unit 3 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/007.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/007.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:50:03 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4162,7 +4162,7 @@
       <title>Module 1 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/006.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/006.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:48:26 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4170,7 +4170,7 @@
       <title>Module 1 Unit 2 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/004.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/004.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:45:42 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4178,7 +4178,7 @@
       <title>Module 1 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/005.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/005.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:45:35 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4186,7 +4186,7 @@
       <title>Module 1 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/002.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/002.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:44:02 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4194,7 +4194,7 @@
       <title>Module 1 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/003.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/003.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:43:56 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4202,7 +4202,7 @@
       <title>Module 1 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/022.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/022.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 26 Jun 2012 00:40:56 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -4642,7 +4642,7 @@
       <title>Module 9 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/198.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/198.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 26 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4650,7 +4650,7 @@
       <title>Module 7 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/154.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/154.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 24 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4658,7 +4658,7 @@
       <title>Module 9 Unit 7 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/195.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/195.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 23 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4666,7 +4666,7 @@
       <title>Module 7 Unit 7 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/151.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/151.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 22 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4674,7 +4674,7 @@
       <title>Module 9 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/197.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/197.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 21 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4682,7 +4682,7 @@
       <title>Module 7 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/153.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/153.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 20 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4690,7 +4690,7 @@
       <title>Module 9 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/196.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/196.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 20 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4698,7 +4698,7 @@
       <title>Module 7 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/152.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/152.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 19 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4714,7 +4714,7 @@
       <title>Module 9 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/194.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/194.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 14 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4722,7 +4722,7 @@
       <title>Module 7 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/150.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/150.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 13 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4730,7 +4730,7 @@
       <title>Module 9 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/193.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/193.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 13 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4738,7 +4738,7 @@
       <title>Module 7 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/149.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/149.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 12 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4746,7 +4746,7 @@
       <title>Module 9 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/192.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/192.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 11 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4754,7 +4754,7 @@
       <title>Module 7 Unit 6 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/148.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/148.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 10 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4762,7 +4762,7 @@
       <title>Module 9 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/191.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/191.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 07 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4770,7 +4770,7 @@
       <title>Module 7 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/147.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/147.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 06 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4778,7 +4778,7 @@
       <title>Module 9 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/190.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/190.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 06 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4786,7 +4786,7 @@
       <title>Module 7 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/146.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/146.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 05 May 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4794,7 +4794,7 @@
       <title>Module 9 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/189.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/189.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 04 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4802,7 +4802,7 @@
       <title>Module 7 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/145.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/145.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 03 May 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4810,7 +4810,7 @@
       <title>Module 9 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/188.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/188.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 30 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4818,7 +4818,7 @@
       <title>Module 7 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/144.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/144.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 29 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4826,7 +4826,7 @@
       <title>Module 9 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/187.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/187.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 29 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4834,7 +4834,7 @@
       <title>Module 7 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/143.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/143.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 28 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4842,7 +4842,7 @@
       <title>Module 9 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/186.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/186.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 27 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4850,7 +4850,7 @@
       <title>Module 7 Unit 4 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/142.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/142.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 26 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4858,7 +4858,7 @@
       <title>Module 9 Unit 3 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/183.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/183.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 25 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4874,7 +4874,7 @@
       <title>Module 7 Unit 3 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/139.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/139.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 24 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4882,7 +4882,7 @@
       <title>Module 9 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/185.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/185.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 23 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4890,7 +4890,7 @@
       <title>Module 7 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/141.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/141.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 22 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4898,7 +4898,7 @@
       <title>Module 7 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/140.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/140.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 21 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4906,7 +4906,7 @@
       <title>Module 9 Unit 2 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/180.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/180.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 18 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4914,7 +4914,7 @@
       <title>Module 7 Unit 2 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/136.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/136.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 17 Apr 2010 07:00:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4922,7 +4922,7 @@
       <title>Module 9 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/182.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/182.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 16 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4930,7 +4930,7 @@
       <title>Module 7 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/138.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/138.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 15 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4938,7 +4938,7 @@
       <title>Module 9 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/181.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/181.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 15 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4946,7 +4946,7 @@
       <title>Module 7 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/137.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/137.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 14 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4954,7 +4954,7 @@
       <title>Module 9 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/179.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/179.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 09 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4962,7 +4962,7 @@
       <title>Module 7 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/135.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/135.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 08 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4970,7 +4970,7 @@
       <title>Module 9 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/178.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/178.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 08 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4978,7 +4978,7 @@
       <title>Module 7 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/134.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/134.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 07 Apr 2010 06:45:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4986,7 +4986,7 @@
       <title>Module 9 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/177.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/177.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 06 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -4994,7 +4994,7 @@
       <title>Module 7 Unit 1 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/133.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/133.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Mon, 05 Apr 2010 06:30:00 +0200</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5018,7 +5018,7 @@
       <title>Module 8 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/176.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/176.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 03 Mar 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5026,7 +5026,7 @@
       <title>Module 8 Unit 7 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/173.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/173.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 28 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5042,7 +5042,7 @@
       <title>Module 8 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/175.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/175.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 26 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5050,7 +5050,7 @@
       <title>Module 8 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/174.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/174.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 25 Feb 2010 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5058,7 +5058,7 @@
       <title>Module 8 Unit 6 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/170.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/170.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 21 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5066,7 +5066,7 @@
       <title>Module 8 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/172.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/172.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 19 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5074,7 +5074,7 @@
       <title>Module 8 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/171.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/171.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 18 Feb 2010 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5090,7 +5090,7 @@
       <title>Module 8 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/168.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/168.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 14 Feb 2010 06:55:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5098,7 +5098,7 @@
       <title>Module 8 Unit 5 Programme 1 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/167.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/167.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 14 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5106,7 +5106,7 @@
       <title>Module 8 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/169.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/169.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 12 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5114,7 +5114,7 @@
       <title>Module 8 Unit 4 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/164.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/164.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 07 Feb 2010 06:40:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5122,7 +5122,7 @@
       <title>Module 8 Unit 4 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/166.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/166.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 05 Feb 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5130,7 +5130,7 @@
       <title>Module 8 Unit 4 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/165.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/165.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 04 Feb 2010 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5146,7 +5146,7 @@
       <title>Module 8 Unit 3 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/161.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/161.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 31 Jan 2010 06:35:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5154,7 +5154,7 @@
       <title>Module 8 Unit 3 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/163.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/163.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 29 Jan 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5162,7 +5162,7 @@
       <title>Module 8 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/162.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/162.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 28 Jan 2010 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5170,7 +5170,7 @@
       <title>Module 8 Unit 2 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/158.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/158.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 24 Jan 2010 06:51:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5178,7 +5178,7 @@
       <title>Module 8 Unit 2 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/160.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/160.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 22 Jan 2010 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5186,7 +5186,7 @@
       <title>Module 8 Unit 2 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/159.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/159.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 21 Jan 2010 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5210,7 +5210,7 @@
       <title>Module 6 Unit 8 Review — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/132.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/132.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 08 Dec 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5218,7 +5218,7 @@
       <title>Module 6 Unit 7 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/129.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/129.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 06 Dec 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5226,7 +5226,7 @@
       <title>Module 6 Unit 7 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/131.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/131.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 04 Dec 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5234,7 +5234,7 @@
       <title>Module 6 Unit 7 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/130.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/130.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 02 Dec 2009 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5242,7 +5242,7 @@
       <title>Module 6 Unit 6 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/126.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/126.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 29 Nov 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5250,7 +5250,7 @@
       <title>Module 6 Unit 6 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/128.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/128.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 27 Nov 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5258,7 +5258,7 @@
       <title>Module 6 Unit 6 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/127.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/127.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 25 Nov 2009 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5266,7 +5266,7 @@
       <title>Module 6 Unit 5 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/123.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/123.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 22 Nov 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5282,7 +5282,7 @@
       <title>Module 6 Unit 5 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/125.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/125.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 20 Nov 2009 06:45:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5290,7 +5290,7 @@
       <title>Module 6 Unit 5 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/124.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/124.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Wed, 18 Nov 2009 06:30:00 +0100</pubDate>
       <description>Watch on RTVE.</description>
     </item>
@@ -5346,7 +5346,7 @@
       <title>Lechón 5 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/05.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/05.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 18 Jun 2009 02:41:17 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5354,7 +5354,7 @@
       <title>Lechón 4 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/04.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/04.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 18 Jun 2009 02:31:53 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5362,7 +5362,7 @@
       <title>Lechón 3 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/03.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/03.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 18 Jun 2009 02:22:53 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5370,7 +5370,7 @@
       <title>Lechón 2 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/02.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/02.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 18 Jun 2009 02:13:32 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5410,7 +5410,7 @@
       <title>Part 30 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/30.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/30.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 17:29:05 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5418,7 +5418,7 @@
       <title>Part 29 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/29.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/29.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 17:13:45 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5426,7 +5426,7 @@
       <title>Part 28 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/28.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/28.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 17:02:41 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5434,7 +5434,7 @@
       <title>Part 27 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/27.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/27.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 16:55:20 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5442,7 +5442,7 @@
       <title>Part 26 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/26.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/26.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 10:04:45 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5450,7 +5450,7 @@
       <title>Part 25 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/25.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/25.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 09:46:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5458,7 +5458,7 @@
       <title>Part 24 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/24.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/24.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 09:38:13 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5466,7 +5466,7 @@
       <title>Part 23 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/23.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/23.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 09:24:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5474,7 +5474,7 @@
       <title>Part 22 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/22.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/22.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 09:10:15 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5482,7 +5482,7 @@
       <title>Part 21 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/21.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/21.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 09:03:13 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5490,7 +5490,7 @@
       <title>Part 20 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/20.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/20.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 08:46:21 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5498,7 +5498,7 @@
       <title>Part 19 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/19.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/19.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 08:35:35 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5506,7 +5506,7 @@
       <title>Part 18 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/18.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/18.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 08:21:01 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5514,7 +5514,7 @@
       <title>Part 17 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/17.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/17.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 08:13:31 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5522,7 +5522,7 @@
       <title>Part 16 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/16.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/16.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 06:37:42 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5530,7 +5530,7 @@
       <title>Part 15 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/15.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/15.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 06:29:34 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5538,7 +5538,7 @@
       <title>Part 14 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/14.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/14.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 06:13:41 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5546,7 +5546,7 @@
       <title>Part 13 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/13.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/13.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sun, 15 Mar 2009 06:04:10 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5554,7 +5554,7 @@
       <title>Part 12 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/12.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/12.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 23:33:58 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5562,7 +5562,7 @@
       <title>Part 11 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/11.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/11.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 23:17:54 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5570,7 +5570,7 @@
       <title>Part 10 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/10.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/10.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 23:02:25 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5578,7 +5578,7 @@
       <title>Part 09 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/09.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/09.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 22:51:38 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5586,7 +5586,7 @@
       <title>Part 08 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/08.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/08.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 22:34:14 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5594,7 +5594,7 @@
       <title>Part 07 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/07.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/07.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 22:18:00 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5602,7 +5602,7 @@
       <title>Part 06 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/06.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/06.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 22:04:23 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5610,7 +5610,7 @@
       <title>Part 05 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/05.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/05.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 21:50:33 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5618,7 +5618,7 @@
       <title>Part 04 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/04.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/04.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 21:38:59 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5626,7 +5626,7 @@
       <title>Part 03 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/03.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/03.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 21:25:22 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5634,7 +5634,7 @@
       <title>Part 02 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/02.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/02.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 14:51:46 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5642,7 +5642,7 @@
       <title>Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 14:35:14 -0700</pubDate>
       <description>30 parts. BBC-style beginner series on YouTube.</description>
     </item>
@@ -5650,7 +5650,7 @@
       <title>Part 01 — Follow Me Beginner</title>
       <link>https://luismiguelbp.github.io/english-resources/video/follow-me/01.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/follow-me/01.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Sat, 14 Mar 2009 14:35:14 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5682,7 +5682,7 @@
       <title>Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 20 Jan 2009 23:40:20 -0800</pubDate>
       <description>24 lessons. Comedy sketches on YouTube.</description>
     </item>
@@ -5690,7 +5690,7 @@
       <title>Lechón 1 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/01.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/01.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 20 Jan 2009 23:40:20 -0800</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5810,7 +5810,7 @@
       <title>Lechón 21 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/21.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/21.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 22 Jul 2008 14:02:03 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5826,7 +5826,7 @@
       <title>Lechón 18 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/18.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/18.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Thu, 17 Jul 2008 00:09:32 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5842,7 +5842,7 @@
       <title>Lechón 24 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/24.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/24.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 08 Jul 2008 23:32:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5850,7 +5850,7 @@
       <title>Lechón 23 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/23.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/23.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 08 Jul 2008 00:48:27 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5858,7 +5858,7 @@
       <title>Lechón 20 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/20.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/20.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 04 Jul 2008 23:30:05 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5866,7 +5866,7 @@
       <title>Lechón 22 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/22.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/22.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Fri, 04 Jul 2008 14:54:22 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -5890,7 +5890,7 @@
       <title>Lechón 19 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/19.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/19.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <pubDate>Tue, 10 Jun 2008 02:37:51 -0700</pubDate>
       <description>Watch on YouTube.</description>
     </item>
@@ -6042,483 +6042,483 @@
       <title>22 — 'Who's behind him? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/22.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/22.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>39 — Watching &amp; Listening — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/39.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/39.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>40 — 'Who are you looking at? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/40.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/40.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>58 — ' Is she going (to) — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/58.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/58.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>62 — 'There are — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/62.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/62.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>70 — 'How many — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/70.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/70.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>71 — “How much — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/71.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/71.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>72 — “Whose book is this? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/72.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/72.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>73 — “Whose clothes are these...? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/73.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/73.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>75 — “How old is...? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/75.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/75.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>76 — “My brother’s girlfriend...? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/76.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/76.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>77 — “Both of them — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/77.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/77.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>78 — “I have — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/78.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/78.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>79 — “My neighbours — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/79.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/79.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>81 — “Do you have…? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/81.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/81.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>82 — “Does she have… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/82.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/82.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>84 — “How much time…? — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/84.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/84.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>86 — “She has breakfast… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/86.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/86.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>88 — “He never… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/88.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/88.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>89 — “I have a shower… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/89.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/89.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>90 — “He Normally… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/90.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/90.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>91 — “I don’t do… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/91.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/91.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>92 — “Do you… — Vaughan Basic</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/92.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-basic/92.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 01 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/21.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/21.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 02 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/22.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/22.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 03 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/23.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/23.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 04 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/24.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/24.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 05 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/25.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/25.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 06 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/26.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/26.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 07 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/27.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/27.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 08 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/28.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/28.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 09 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/29.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/29.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Advanced 10 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/30.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/30.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 01 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/01.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/01.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 02 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/02.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/02.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 03 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/03.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/03.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 04 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/04.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/04.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 05 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/05.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/05.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 06 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/06.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/06.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 07 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/07.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/07.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 08 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/08.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/08.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 09 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/09.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/09.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Basic 10 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/10.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/10.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 01 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/11.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/11.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 02 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/12.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/12.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 03 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/13.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/13.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 04 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/14.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/14.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 05 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/15.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/15.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 06 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/16.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/16.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 07 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/17.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/17.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 08 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/18.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/18.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 09 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/19.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/19.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Intermediate 10 — Vaughan Definitive</title>
       <link>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/20.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/vaughan-definitive/20.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 10 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/10.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/10.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 11 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/11.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/11.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 12 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/12.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/12.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 13 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/13.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/13.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 14 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/14.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/14.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 15 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/15.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/15.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 16 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/16.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/16.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 17 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/17.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/17.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 6 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/06.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/06.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 7 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/07.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/07.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 8 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/08.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/08.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Lechón 9 — Gomaespuminglish</title>
       <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/09.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/09.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on YouTube.</description>
     </item>
     <item>
       <title>Module 8 Unit 1 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/156.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/156.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on RTVE.</description>
     </item>
     <item>
       <title>Module 8 Unit 1 Programme 3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/157.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/157.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on RTVE.</description>
     </item>
     <item>
       <title>Module 8 Unit 1 Programmes 1–3 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/155.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/155.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on RTVE.</description>
     </item>
     <item>
       <title>Module 9 Unit 3 Programme 2 — That's English</title>
       <link>https://luismiguelbp.github.io/english-resources/video/thats-english/184.html</link>
       <guid>https://luismiguelbp.github.io/english-resources/video/thats-english/184.html</guid>
-      <category>Video Courses</category>
+      <category>Videos</category>
       <description>Watch on RTVE.</description>
     </item>
   </channel>

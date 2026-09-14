@@ -11,7 +11,7 @@ Base URL: `https://luismiguelbp.github.io/english-resources/`.
 
 ## Checklist
 
-1. **`search.json`** — Rebuild from page `<title>` tags. Each entry is `{title, url, section}` as consumed by `assets/js/search.js`. `url` is repo-relative (`video/thats-english/001.html`). `section` is one of Video Courses, Podcasts, Grammar & Reference, Courses & Tests, or Home. Decode HTML entities in titles (`&#x27;` → `'`, `&amp;` → `&`). Sort by title.
+1. **`search.json`** — Rebuild from page `<title>` tags. Each entry is `{title, url, section}` as consumed by `assets/js/search.js`. `url` is repo-relative (`video/thats-english/001.html`). `section` is one of Videos, Podcasts, Grammar & Reference, Courses & Tests, or Home. Decode HTML entities in titles (`&#x27;` → `'`, `&amp;` → `&`). Sort by title.
 
 2. **`sitemap.xml`** — One `<url><loc>…</loc></url>` per HTML page. Use the absolute GitHub Pages URL. Add, remove, or rename the matching line. Do not list `search.json`, CSS, JS, or `feed.xml`.
 
@@ -28,7 +28,7 @@ Base URL: `https://luismiguelbp.github.io/english-resources/`.
   <title>Lechón 1 — Gomaespuminglish</title>
   <link>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/01.html</link>
   <guid>https://luismiguelbp.github.io/english-resources/video/gomaespuminglish/01.html</guid>
-  <category>Video Courses</category>
+  <category>Videos</category>
   <pubDate>Tue, 20 Jan 2009 23:40:20 -0800</pubDate>
   <description>Watch on YouTube.</description>
 </item>
