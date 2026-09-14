@@ -59,7 +59,7 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
 - `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Whenever pages are added, removed, or retitled, update `search.json` from page `<title>` tags, `sitemap.xml`, and (for a new series or lesson) `feed.xml`. Follow `.agents/skills/update-site/SKILL.md`.
 - `sitemap.xml` — One URL per HTML page. Absolute GitHub Pages loc. Maintain by hand.
 - `feed.xml` — RSS 2.0 catalog of video and podcast series hubs and lesson pages. `pubDate` is the episode date from YouTube, iVoox, Duolingo, Libsyn, or RTVE when available. Newest first. Autodiscovery link lives in `index.html`; copy it onto new pages.
-- `video/index.html` — Videos hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish)
+- `video/index.html` — Videos hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish, SNL English Spanish)
   - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
   - `video/thats-english/module-1.html` … `module-9.html` — 22 programmes per module
   - `video/thats-english/001.html` … `198.html`
@@ -75,6 +75,8 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `video/follow-me/01.html` … `30.html`
   - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
   - `video/gomaespuminglish/01.html` … `24.html`
+  - `video/snl-english-spanish.html` — 54 clips (link list, embeds on lesson pages)
+  - `video/snl-english-spanish/01.html` … `54.html`
 - `audio/index.html` — Podcasts hub (Tu Inglés, Alema, Gramática Popular, Relatos en inglés, Duolingo Spanish Podcast)
   - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
   - `audio/tu-ingles/items-01-20.html` … `items-81-82.html` — five item ranges
