@@ -40,6 +40,7 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - Plenty of spacing. Avoid dense tables of tiny links on mobile; use stacked cards or lists.
 - No decorative animation, no autoplay, no pop-ups.
 - Use Bootstrap 5.3.8 CSS from the jsDelivr CDN plus a small custom stylesheet. Load the Bootstrap JavaScript bundle only when an interactive Bootstrap component requires it.
+- Head on every page: shared `<meta name="description">` site summary, `<meta name="theme-color" content="#f6f4ef">`, and the SVG book-mark favicon (`assets/favicon.svg`) via a relative `<link rel="icon" type="image/svg+xml">` matching page depth.
 
 ## Copy and content
 
