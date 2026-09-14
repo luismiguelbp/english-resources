@@ -127,6 +127,10 @@ a[target="_blank"]::after {
   color: var(--color-text);
 }
 
+h1 {
+  text-wrap: balance;
+}
+
 .site-main {
   padding: 1.5rem 0 3rem;
 }
@@ -250,6 +254,7 @@ a.hub-card:focus-visible {
   border-radius: 0.5rem;
   text-decoration: none;
   text-align: center;
+  text-wrap: balance;
 }
 
 .btn-play:hover,
@@ -418,5 +423,15 @@ a.lesson-link:visited {
   .btn-play {
     width: auto;
     min-width: 16rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .breadcrumb .breadcrumb-item[aria-current="page"] {
+    max-width: 12rem;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 }
