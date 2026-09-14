@@ -1,0 +1,76 @@
+# Design
+
+UI rules for the static catalog. Follow this file when adding or changing pages, CSS, or links.
+
+## Goals
+
+- Modern, calm, readable layout on phone, tablet, and desktop.
+- One-handed use on mobile: large tap targets, short pages, obvious next action.
+- Opening a lesson is one tap: YouTube, RTVE, iVoox, or other sites/apps.
+
+## Layout
+
+- Mobile-first. One column by default. Widen the reading column on large screens; do not add a second content column unless a page needs it.
+- Hub and Home cards may wrap 2 columns on tablet and 3 on desktop. Series, article, and resource lists stay one stacked column at every breakpoint.
+- Viewport meta on every HTML page: `width=device-width, initial-scale=1`.
+- Sticky or short top nav: Home and the main sections (Video, Audio, Text, Resources). Keep nav labels in English.
+- Prefer many short pages over one long scroll for series (one module or a block of lessons per page).
+- Lesson page chrome: title, duration if known, short objective, primary play/open link, Previous / Next.
+
+## Links (YouTube and other apps)
+
+- Prefer official `https://` URLs (`youtube.com/watch?v=…`, iVoox, RTVE, mansioningles, etc.). Do not invent custom URL schemes.
+- Exception: if the source notes only provide a legacy `http://` URL, publish that URL as-is. Do not rewrite it to `https://` unless the notes already contain an HTTPS target. GitHub Pages does not upgrade outbound links.
+- Let the browser and OS hand off to the YouTube or podcast app. Do not wrap links in JavaScript that intercepts the click.
+- External links: `target="_blank"` and `rel="noopener noreferrer"`.
+- Primary action per lesson is a single, full-width-on-mobile button/link (min tap height 44px). Secondary links stay visually quieter.
+- Link text names the destination and the lesson (`Watch on YouTube — Lesson 3`), not “click here”.
+- Verb by medium, on both lesson pages and list pages: `Watch` for video (YouTube, RTVE), `Listen` for audio (iVoox, Libsyn), `Open` for everything else (playlists, podcast indexes, text sites).
+- Do not embed as the only way to play. An official HTTPS iframe may sit below the primary link: iVoox (`https://www.ivoox.com/player_ej_{id}_4_1.html`) or YouTube (`https://www.youtube.com/embed/{id}`). The link must still work if the embed fails. Do not autoplay. Do not hotlink media files.
+
+## Visual
+
+- System font stack. Comfortable body size (about 16–18px) and line length.
+- High contrast text. Visible `:focus` and `:hover` on links and buttons.
+- Plenty of spacing. Avoid dense tables of tiny links on mobile; use stacked cards or lists.
+- No decorative animation, no autoplay, no pop-ups.
+- Use Bootstrap 5.3.8 CSS from the jsDelivr CDN plus a small custom stylesheet. Load the Bootstrap JavaScript bundle only when an interactive Bootstrap component requires it.
+
+## Copy and content
+
+- Nav, folders, and page titles: English. Body: English, with Spanish where it helps.
+- Curated index: attribution, no claim of ownership of third-party courses.
+- Do not include source-vault names, URLs, or page labels on the site.
+- Shared footer on every page: this site is a curated index of third-party courses and does not claim ownership of those materials, plus an `About this site` link (relative to page depth) and a `Site code released under the Unlicense` link to `https://unlicense.org`.
+
+## Sitemap
+
+Publish legacy `http://` outbound links from the source notes when no HTTPS target is recorded. Restore truncated YouTube ids when the official 11-character id is confirmed. Omit lessons whose official video is still missing.
+
+- `index.html` — Home (Video, Audio, Text, Resources)
+- `about.html` — About (sources, license, privacy, contact)
+- `video/index.html` — Video hub
+  - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
+  - `video/gomaespuminglish/01.html` … `24.html`
+  - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
+  - `video/thats-english/001.html` … `198.html`
+  - `video/vaughan-basic.html` — 93 episodes
+  - `video/vaughan-basic/01.html` … `93.html`
+  - `video/vaughan-definitive.html` — Basic, Intermediate, Advanced (30 videos)
+  - `video/vaughan-definitive/01.html` … `30.html`
+  - `video/rumbo-al-ingles.html` — 33 videos with valid ids; Intermediate 06 and Advanced 02 shown as unavailable (no href)
+  - `video/rumbo-al-ingles/01.html` … `33.html`
+  - `video/follow-me.html` — 30 parts
+  - `video/follow-me/01.html` … `30.html`
+- `audio/index.html` — Audio hub
+  - `audio/alema.html` — 13 lessons (link list, no embeds)
+  - `audio/alema/01.html` … `13.html`
+  - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
+  - `audio/tu-ingles/01.html` … `82.html`
+  - `audio/gramatica-popular.html` — 34 lessons
+  - `audio/gramatica-popular/01.html` … `34.html`
+- `text/index.html` — Text hub
+  - `text/alphabet.html` — English alphabet
+  - `text/verb-tenses.html` — verb tenses (`play`)
+  - `text/grammar.html` — grammar topic index (including legacy HTTP lesson links)
+- `resources/index.html` — Courses, Tests, Sites (including legacy HTTP listings)

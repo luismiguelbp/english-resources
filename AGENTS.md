@@ -1,6 +1,7 @@
 # English Resources
 
 - Read the [README](README.md) for setup, layout, and documentation.
+- Read [DESIGN.md](DESIGN.md) before changing pages, CSS, or links.
 - Discover skills under [`.agents/skills/`](.agents/skills/) and read the
   matching `SKILL.md` when the task fits. Do not load unused skills.
 
@@ -20,4 +21,4 @@
 
 ## Verification
 
-- No test, lint, or build command applies until site files exist.
+- Open `index.html` in a browser. No test, lint, or build command applies.
