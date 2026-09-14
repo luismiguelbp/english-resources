@@ -29,7 +29,7 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - Primary action per lesson is a single, full-width-on-mobile button/link (min tap height 44px). Secondary links stay visually quieter.
 - Link text names the destination and the lesson (`Watch on YouTube — Lesson 3`), not “click here”.
 - Verb by medium, on both lesson pages and list pages: `Watch` for video (YouTube, RTVE), `Listen` for audio (iVoox, Libsyn), `Open` for everything else (playlists, podcast indexes, text sites).
-- Do not embed as the only way to play. An official HTTPS iframe may sit below the primary link: iVoox (`https://www.ivoox.com/player_ej_{id}_4_1.html`) or YouTube (`https://www.youtube.com/embed/{id}`). The link must still work if the embed fails. Do not autoplay. Do not hotlink media files.
+- Do not embed as the only way to play. An official HTTPS iframe may sit below the primary link: iVoox (`https://www.ivoox.com/player_ej_{id}_4_1.html`), YouTube (`https://www.youtube.com/embed/{id}`), Libsyn (`https://html5-player.libsyn.com/embed/episode/id/{id}/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/`), or Spotify (`https://podcasters.spotify.com/pod/show/{show}/embed/episodes/{slug}`). The link must still work if the embed fails. Do not autoplay. Do not hotlink media files.
 
 ## Visual
 
@@ -70,7 +70,7 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `video/follow-me/01.html` … `30.html`
   - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
   - `video/gomaespuminglish/01.html` … `24.html`
-- `audio/index.html` — Podcasts hub (Tu Inglés, Alema, Gramática Popular)
+- `audio/index.html` — Podcasts hub (Tu Inglés, Alema, Gramática Popular, Relatos en inglés)
   - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
   - `audio/tu-ingles/items-01-20.html` … `items-81-82.html` — five item ranges
   - `audio/tu-ingles/01.html` … `82.html`
@@ -78,6 +78,9 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `audio/alema/01.html` … `13.html`
   - `audio/gramatica-popular.html` — 34 lessons
   - `audio/gramatica-popular/01.html` … `34.html`
+  - `audio/relatos-en-ingles.html` — 12 seasons in catalog order (105 items)
+  - `audio/relatos-en-ingles/temporada-1.html` … `temporada-12.html`
+  - `audio/relatos-en-ingles/01.html` … `105.html`
 - `text/index.html` — Grammar & Reference hub
   - `text/alphabet.html` — English alphabet
   - `text/verb-tenses.html` — verb tenses (`play`)

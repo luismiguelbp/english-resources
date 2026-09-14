@@ -5,6 +5,11 @@
     "section": "Site"
   },
   {
+    "title": "Alema Aprende Inglés",
+    "url": "audio/alema.html",
+    "section": "Podcasts"
+  },
+  {
     "title": "Lesson 01 — Alema Aprende Inglés",
     "url": "audio/alema/01.html",
     "section": "Podcasts"
@@ -70,8 +75,8 @@
     "section": "Podcasts"
   },
   {
-    "title": "Alema Aprende Inglés",
-    "url": "audio/alema.html",
+    "title": "Gramática Popular",
+    "url": "audio/gramatica-popular.html",
     "section": "Podcasts"
   },
   {
@@ -245,13 +250,603 @@
     "section": "Podcasts"
   },
   {
-    "title": "Gramática Popular",
-    "url": "audio/gramatica-popular.html",
+    "title": "Podcasts",
+    "url": "audio/index.html",
     "section": "Podcasts"
   },
   {
-    "title": "Podcasts",
-    "url": "audio/index.html",
+    "title": "Relatos en inglés con Duolingo",
+    "url": "audio/relatos-en-ingles.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 1 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/01.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 1: Breaking Boundaries (Rompiendo barreras) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/02.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 2: Modern Love (Amor moderno) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/03.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 3: Furry Friends (Amigos peludos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/04.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 4: Unexpected Entrepreneurs (Emprendedores inesperados) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/05.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 5: Road Trips (Viajes de carretera) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/06.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 6: Superfans (Súper fans) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/07.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 7: Acts of Service (Actos de servicio) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/08.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 8: Comfort food (Comida para el corazón) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/09.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 2 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/10.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 85: All About Accents! Voices from Ireland — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/100.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 86: All About Accents! The US Coast to Coast (Part 1) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/101.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 87: All About Accents! The US Coast to Coast (Part 2) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/102.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 88: All About Accents! Voices from Australia — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/103.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 89: All About Accents! The Canadian Accent — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/104.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 90: All about Accents! Voices from Singapore and South Africa — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/105.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 9: Wild Animals (Animales salvajes) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/11.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 10: Prom (Baile de preparatoria) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/12.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 11: Fusing Food (Fusión de comidas) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/13.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 12: Extreme Sports (Deportistas extremos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/14.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 13: Pandemic Weddings (Bodas en pandemia) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/15.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 14: Emergency Landings (Aterrizajes Forzosos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/16.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 15: Inspiring Images (Imágenes que inspiran) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/17.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 16: The Power of Protest (El poder de la protesta) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/18.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 3 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/19.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 17: Urban Adventures (Aventuras urbanas) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/20.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 18: Snowy Pastimes (Pasatiempos en la nieve) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/21.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 19: Career Changes (Cambios profesionales) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/22.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 20: 4th of July (4 de julio) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/23.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 21: Secondhand Treasures (Tesoros de segunda mano) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/24.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 22: Tornadoes (Tornados) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/25.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 23: Family Changes (Familias que cambian) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/26.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 24: College Life (Vida universitaria) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/27.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 4 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/28.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 25: Families and Adoption (Familias y adopción) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/29.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 26: Friends Reunited (Amigos reunidos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/30.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 27: Moon Landing (Aterrizaje en la luna) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/31.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 28: Delicious Barbecue (Deliciosa barbecue) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/32.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 29: Happy Halloween (Feliz Halloween) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/33.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 30: National Park Adventures (Aventuras en reservas naturales) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/34.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 31: Under the Sea (Bajo del mar) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/35.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 32: Interview Success (Entrevistas exitosas) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/36.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio especial con Juanes — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/37.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 5 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/38.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 33: Mixtapes (Mixtapes) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/39.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 34: Summer Jobs (Trabajos de verano) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/40.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 35: Ice Hockey (Hockey sobre hielo) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/41.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 36: Video Games Heroes (Héroes de videojuegos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/42.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 37: Exploring Space (Explorando el espacio) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/43.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 38: The Power of the Volcano (La fuerza del volcán) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/44.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 39: Finding My Roots (Buscando mis raíces) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/45.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 40: Marching Band (Banda marchante) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/46.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Trailer Temporada 6 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/47.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 41: Life in NYC - The Subway — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/48.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 42: Life in NYC - Holiday Traditions — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/49.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 43: Life in NYC - Iconic Landmarks — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/50.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 44: Life in NYC - Pizza and Bagels — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/51.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 45: Life in NYC - Famous Neighborhoods — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/52.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 46: Life in NYC - City of Dreams — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/53.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 7 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/54.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 47: Summer Camp (Campamento de verano) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/55.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 48: Ferry Life (La vida por ferri) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/56.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 49: The White House (La Casa Blanca) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/57.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 50: Bike Adventures (Aventuras en bicicleta) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/58.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 51: Viral Videos (Videos virales) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/59.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 52: Memorable Concerts (Conciertos memorables) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/60.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 53: Yoga Careers (Trabajos de yoga) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/61.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 54: Volunteer Work (Trabajo voluntario) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/62.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 8 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/63.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 55: Life in L.A. - Car Culture — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/64.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 56: Life in L.A. - Hollywood Culture — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/65.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 57: Life in L.A. - Chicanx Culture — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/66.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 58: Life in L.A. - City Culture — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/67.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 59: Life in L.A. - Food Culture — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/68.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 60: Life in L.A. - Beach Culture — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/69.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 9 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/70.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 61: Small Town Celebrations (Celebraciones de pueblos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/71.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 62: An Unforgettable Hike (Una excursión inolvidable) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/72.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 63: Australia’s Animals (Animales de Australia) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/73.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 64: Tech Communities (Comunidades tecnológicas) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/74.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 65: Life in Singapore (La vida en Singapur) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/75.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 66: Broadway! — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/76.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 67: Rebel Cheerleaders (Porristas rebeldes) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/77.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 68: Wedding Tales (Cuentos de boda) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/78.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 10 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/79.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 69: Pet Rescue (Rescate de mascotas) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/80.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 70: Learning to Live Together (Aprendiendo a vivir juntos) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/81.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 71: Finding Your Voice (Encontrando tu voz) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/82.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 72: Quirky Holidays (Días festivos peculiares) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/83.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 73: Preserving Indigenous Traditions (Preservando tradiciones indígenas) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/84.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 74: The Fight for Juneteenth (La lucha por Juneteenth) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/85.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 75: A Taste of the UK (Un sabor del Reino Unido) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/86.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 76: Celebrating the Super Bowl (Celebrando el Super Bowl) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/87.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 11 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/88.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 77: Life in Miami - A Taste of Little Havana — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/89.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 78: Life in Miami - The Art Scene — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/90.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 79: Life in Miami - The Music Scene — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/91.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 80: Life in Miami - Sun and Storms — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/92.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 81: Life in Miami - Fashion — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/93.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 82: Life in Miami - Miami Beach — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/94.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio especial - Connections on the court (Conexiones en la cancha) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/95.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tráiler Temporada 12 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/96.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 83: All about Accents! The English Accent — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/97.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio 84: All About Accents! The Scottish Accent — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/98.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Episodio especial: Service Animals (Animales de servicio) — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/99.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 1 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-1.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 10 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-10.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 11 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-11.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 12 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-12.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 2 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-2.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 3 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-3.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 4 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-4.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 5 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-5.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 6 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-6.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 7 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-7.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 8 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-8.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Temporada 9 — Relatos en inglés",
+    "url": "audio/relatos-en-ingles/temporada-9.html",
+    "section": "Podcasts"
+  },
+  {
+    "title": "Tu Inglés",
+    "url": "audio/tu-ingles.html",
     "section": "Podcasts"
   },
   {
@@ -690,11 +1285,6 @@
     "section": "Podcasts"
   },
   {
-    "title": "Tu Inglés",
-    "url": "audio/tu-ingles.html",
-    "section": "Podcasts"
-  },
-  {
     "title": "English Resources",
     "url": "index.html",
     "section": "Site"
@@ -723,6 +1313,11 @@
     "title": "Verb tenses",
     "url": "text/verb-tenses.html",
     "section": "Grammar & Reference"
+  },
+  {
+    "title": "Follow Me Beginner",
+    "url": "video/follow-me.html",
+    "section": "Video Courses"
   },
   {
     "title": "Part 01 — Follow Me Beginner",
@@ -875,8 +1470,8 @@
     "section": "Video Courses"
   },
   {
-    "title": "Follow Me Beginner",
-    "url": "video/follow-me.html",
+    "title": "Gomaespuminglish",
+    "url": "video/gomaespuminglish.html",
     "section": "Video Courses"
   },
   {
@@ -1000,13 +1595,13 @@
     "section": "Video Courses"
   },
   {
-    "title": "Gomaespuminglish",
-    "url": "video/gomaespuminglish.html",
+    "title": "Video Courses",
+    "url": "video/index.html",
     "section": "Video Courses"
   },
   {
-    "title": "Video Courses",
-    "url": "video/index.html",
+    "title": "Rumbo al inglés",
+    "url": "video/rumbo-al-ingles.html",
     "section": "Video Courses"
   },
   {
@@ -1175,8 +1770,8 @@
     "section": "Video Courses"
   },
   {
-    "title": "Rumbo al inglés",
-    "url": "video/rumbo-al-ingles.html",
+    "title": "That's English",
+    "url": "video/thats-english.html",
     "section": "Video Courses"
   },
   {
@@ -2215,8 +2810,8 @@
     "section": "Video Courses"
   },
   {
-    "title": "That's English",
-    "url": "video/thats-english.html",
+    "title": "Vaughan Basic",
+    "url": "video/vaughan-basic.html",
     "section": "Video Courses"
   },
   {
@@ -2710,8 +3305,8 @@
     "section": "Video Courses"
   },
   {
-    "title": "Vaughan Basic",
-    "url": "video/vaughan-basic.html",
+    "title": "Vaughan Definitive",
+    "url": "video/vaughan-definitive.html",
     "section": "Video Courses"
   },
   {
@@ -2877,11 +3472,6 @@
   {
     "title": "Intermediate — Vaughan Definitive",
     "url": "video/vaughan-definitive/intermediate.html",
-    "section": "Video Courses"
-  },
-  {
-    "title": "Vaughan Definitive",
-    "url": "video/vaughan-definitive.html",
     "section": "Video Courses"
   }
 ]

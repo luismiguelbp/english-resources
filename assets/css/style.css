@@ -292,6 +292,24 @@ a.lesson-link:visited {
   background: var(--color-bg);
 }
 
+.player-libsyn {
+  display: block;
+  width: 100%;
+  height: 90px;
+  border: 0;
+  border-radius: 0.5rem;
+  background: var(--color-bg);
+}
+
+.player-spotify {
+  display: block;
+  width: 100%;
+  height: 232px;
+  border: 0;
+  border-radius: 0.5rem;
+  background: var(--color-bg);
+}
+
 .player-video {
   display: block;
   width: 100%;
