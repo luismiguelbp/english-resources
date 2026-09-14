@@ -13,9 +13,11 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - Mobile-first. One column by default. Widen the reading column on large screens; do not add a second content column unless a page needs it.
 - Hub and Home cards may wrap 2 columns on tablet and 3 on desktop. Series, article, and resource lists stay one stacked column at every breakpoint.
 - Viewport meta on every HTML page: `width=device-width, initial-scale=1`.
-- Sticky or short top nav: Home and the main sections (Video, Audio, Text, Resources). Keep nav labels in English.
-- Prefer many short pages over one long scroll for series (one module or a block of lessons per page).
+- Sticky or short top nav: Home, the main sections (Video Courses, Podcasts, Grammar & Reference, Courses & Tests), and Search. Keep nav labels in English.
+- Prefer many short pages over one long scroll for series (one module, level, or block of lessons per page).
+- Use overview cards to open those smaller catalog pages. Use jump links only when a long page cannot be split naturally.
 - Lesson page chrome: title, duration if known, short objective, primary play/open link, Previous / Next.
+- Every page has a keyboard-visible skip link to the main content. Repeated navigation landmarks have distinct accessible labels.
 
 ## Links (YouTube and other apps)
 
@@ -23,6 +25,7 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - Exception: if the source notes only provide a legacy `http://` URL, publish that URL as-is. Do not rewrite it to `https://` unless the notes already contain an HTTPS target. GitHub Pages does not upgrade outbound links.
 - Let the browser and OS hand off to the YouTube or podcast app. Do not wrap links in JavaScript that intercepts the click.
 - External links: `target="_blank"` and `rel="noopener noreferrer"`.
+- Mark external links consistently with a north-east arrow.
 - Primary action per lesson is a single, full-width-on-mobile button/link (min tap height 44px). Secondary links stay visually quieter.
 - Link text names the destination and the lesson (`Watch on YouTube — Lesson 3`), not “click here”.
 - Verb by medium, on both lesson pages and list pages: `Watch` for video (YouTube, RTVE), `Listen` for audio (iVoox, Libsyn), `Open` for everything else (playlists, podcast indexes, text sites).
@@ -32,6 +35,7 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 
 - System font stack. Comfortable body size (about 16–18px) and line length.
 - High contrast text. Visible `:focus` and `:hover` on links and buttons.
+- Use a distinct, accessible color for visited lesson links so learners can recognize completed material.
 - Plenty of spacing. Avoid dense tables of tiny links on mobile; use stacked cards or lists.
 - No decorative animation, no autoplay, no pop-ups.
 - Use Bootstrap 5.3.8 CSS from the jsDelivr CDN plus a small custom stylesheet. Load the Bootstrap JavaScript bundle only when an interactive Bootstrap component requires it.
@@ -47,30 +51,35 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 
 Publish legacy `http://` outbound links from the source notes when no HTTPS target is recorded. Restore truncated YouTube ids when the official 11-character id is confirmed. Omit lessons whose official video is still missing.
 
-- `index.html` — Home (Video, Audio, Text, Resources)
+- `index.html` — Home (Video Courses, Podcasts, Grammar & Reference, Courses & Tests)
 - `about.html` — About (sources, license, privacy, contact)
-- `video/index.html` — Video hub
+- `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Regenerate `search.json` from page `<title>` tags whenever pages are added, removed, or retitled.
+- `video/index.html` — Video Courses hub
   - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
   - `video/gomaespuminglish/01.html` … `24.html`
   - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
+  - `video/thats-english/module-1.html` … `module-9.html` — 22 programmes per module
   - `video/thats-english/001.html` … `198.html`
   - `video/vaughan-basic.html` — 93 episodes
+  - `video/vaughan-basic/lessons-01-20.html` … `lessons-81-93.html` — five lesson ranges
   - `video/vaughan-basic/01.html` … `93.html`
   - `video/vaughan-definitive.html` — Basic, Intermediate, Advanced (30 videos)
+  - `video/vaughan-definitive/basic.html`, `intermediate.html`, `advanced.html` — 10 lessons per level
   - `video/vaughan-definitive/01.html` … `30.html`
   - `video/rumbo-al-ingles.html` — 33 videos with valid ids; Intermediate 06 and Advanced 02 shown as unavailable (no href)
   - `video/rumbo-al-ingles/01.html` … `33.html`
   - `video/follow-me.html` — 30 parts
   - `video/follow-me/01.html` … `30.html`
-- `audio/index.html` — Audio hub
+- `audio/index.html` — Podcasts hub
   - `audio/alema.html` — 13 lessons (link list, no embeds)
   - `audio/alema/01.html` … `13.html`
   - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
+  - `audio/tu-ingles/items-01-20.html` … `items-81-82.html` — five item ranges
   - `audio/tu-ingles/01.html` … `82.html`
   - `audio/gramatica-popular.html` — 34 lessons
   - `audio/gramatica-popular/01.html` … `34.html`
-- `text/index.html` — Text hub
+- `text/index.html` — Grammar & Reference hub
   - `text/alphabet.html` — English alphabet
   - `text/verb-tenses.html` — verb tenses (`play`)
   - `text/grammar.html` — grammar topic index (including legacy HTTP lesson links)
-- `resources/index.html` — Courses, Tests, Sites (including legacy HTTP listings)
+- `resources/index.html` — Courses & Tests, including sites and legacy HTTP listings

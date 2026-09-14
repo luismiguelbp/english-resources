@@ -16,7 +16,7 @@ Catalog of public English courses, tests, sites, and grammar for a static GitHub
 
 Open `index.html` in a browser. GitHub Pages will serve the site from the repository root.
 
-Pages: Home, Video, Audio, Text, Resources; video series Gomaespuminglish, That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner; audio series Alema, Tu Inglés, Gramática Popular; alphabet, verb tenses, and the grammar index.
+Pages: Home, Video Courses, Podcasts, Grammar & Reference, Courses & Tests; video series Gomaespuminglish, That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner; podcast series Alema, Tu Inglés, Gramática Popular; alphabet, verb tenses, and the grammar index.
 
 Planned Pages URL: [luismiguelbp.github.io/english-resources](https://luismiguelbp.github.io/english-resources)
 
@@ -27,10 +27,11 @@ Planned Pages URL: [luismiguelbp.github.io/english-resources](https://luismiguel
 ## Project layout
 
 - `index.html` — Home
-- `video/` — Video hub and lesson series
-- `audio/` — Audio hub and lesson series
-- `text/` — Alphabet, verb tenses, grammar index
-- `resources/` — External HTTPS courses
+- `search.html` — Search (filters `search.json` with `assets/js/search.js`)
+- `video/` — Video Courses hub and lesson series
+- `audio/` — Podcasts hub and lesson series
+- `text/` — Grammar & Reference: alphabet, verb tenses, grammar index
+- `resources/` — Courses & Tests from external sites
 - `assets/css/style.css` — Custom styles
 - `AGENTS.md` — agent instructions
 - `DESIGN.md` — site UI and link rules
