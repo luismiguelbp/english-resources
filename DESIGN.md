@@ -54,7 +54,9 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
 
 - `index.html` — Home (Video Courses, Podcasts, Grammar & Reference, Courses & Tests)
 - `about.html` — About (sources, license, privacy, contact)
-- `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Regenerate `search.json` from page `<title>` tags whenever pages are added, removed, or retitled.
+- `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Whenever pages are added, removed, or retitled, update `search.json` from page `<title>` tags, `sitemap.xml`, and (for a new series) `feed.xml`. Follow `.agents/skills/update-site/SKILL.md`.
+- `sitemap.xml` — One URL per HTML page. Absolute GitHub Pages loc. Maintain by hand.
+- `feed.xml` — RSS 2.0 catalog of video and podcast series. One item per series. `pubDate` is the first-episode date from YouTube, iVoox, or Duolingo. Newest first. Autodiscovery link lives in `index.html`; copy it onto new pages.
 - `video/index.html` — Video Courses hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish)
   - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
   - `video/thats-english/module-1.html` … `module-9.html` — 22 programmes per module

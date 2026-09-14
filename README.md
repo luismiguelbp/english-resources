@@ -28,11 +28,14 @@ Planned Pages URL: [luismiguelbp.github.io/english-resources](https://luismiguel
 
 - `index.html` — Home
 - `search.html` — Search (filters `search.json` with `assets/js/search.js`)
+- `sitemap.xml` — One URL per HTML page
+- `feed.xml` — Catalog RSS of video and podcast series
 - `video/` — Video Courses hub and lesson series
 - `audio/` — Podcasts hub and lesson series
 - `text/` — Grammar & Reference: alphabet, verb tenses, grammar index
 - `resources/` — Courses & Tests from external sites
 - `assets/css/style.css` — Custom styles
+- `.agents/skills/update-site/` — Keep search, sitemap, and feed in sync
 - `AGENTS.md` — agent instructions
 - `DESIGN.md` — site UI and link rules
 - `LICENSE` — Unlicense
