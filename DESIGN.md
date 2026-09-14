@@ -41,6 +41,7 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - No decorative animation, no autoplay, no pop-ups.
 - Use Bootstrap 5.3.8 CSS from the jsDelivr CDN plus a small custom stylesheet. Load the Bootstrap JavaScript bundle only when an interactive Bootstrap component requires it.
 - Head on every page: shared `<meta name="description">` site summary, `<meta name="theme-color" content="#f6f4ef">`, and the SVG book-mark favicon (`assets/favicon.svg`) via a relative `<link rel="icon" type="image/svg+xml">` matching page depth.
+- Brand mark: the same SVG book-mark shown decoratively inside `.navbar-brand` next to the `English Resources` wordmark (`<img class="brand-mark" ... alt="" aria-hidden="true" width="28" height="28">`, relative `src` matching page depth). Keep the text; never icon-only.
 
 ## Copy and content
 
@@ -55,9 +56,9 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
 
 - `index.html` — Home (Video Courses, Podcasts, Grammar & Reference, Courses & Tests)
 - `about.html` — About (sources, license, privacy, contact)
-- `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Whenever pages are added, removed, or retitled, update `search.json` from page `<title>` tags, `sitemap.xml`, and (for a new series) `feed.xml`. Follow `.agents/skills/update-site/SKILL.md`.
+- `search.html` — Search (client-side filter over `search.json`; logic in `assets/js/search.js`). Whenever pages are added, removed, or retitled, update `search.json` from page `<title>` tags, `sitemap.xml`, and (for a new series or lesson) `feed.xml`. Follow `.agents/skills/update-site/SKILL.md`.
 - `sitemap.xml` — One URL per HTML page. Absolute GitHub Pages loc. Maintain by hand.
-- `feed.xml` — RSS 2.0 catalog of video and podcast series. One item per series. `pubDate` is the first-episode date from YouTube, iVoox, or Duolingo. Newest first. Autodiscovery link lives in `index.html`; copy it onto new pages.
+- `feed.xml` — RSS 2.0 catalog of video and podcast series hubs and lesson pages. `pubDate` is the episode date from YouTube, iVoox, Duolingo, Libsyn, or RTVE when available. Newest first. Autodiscovery link lives in `index.html`; copy it onto new pages.
 - `video/index.html` — Video Courses hub (That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish)
   - `video/thats-english.html` — modules 1–9 (198 programmes; YouTube and RTVE)
   - `video/thats-english/module-1.html` … `module-9.html` — 22 programmes per module
