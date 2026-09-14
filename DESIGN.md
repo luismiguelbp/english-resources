@@ -70,7 +70,7 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `video/follow-me/01.html` … `30.html`
   - `video/gomaespuminglish.html` — 24 lessons (link list, no embeds)
   - `video/gomaespuminglish/01.html` … `24.html`
-- `audio/index.html` — Podcasts hub (Tu Inglés, Alema, Gramática Popular, Relatos en inglés)
+- `audio/index.html` — Podcasts hub (Tu Inglés, Alema, Gramática Popular, Relatos en inglés, Duolingo Spanish Podcast)
   - `audio/tu-ingles.html` — sessions, exams, and extras in source order (82 items)
   - `audio/tu-ingles/items-01-20.html` … `items-81-82.html` — five item ranges
   - `audio/tu-ingles/01.html` … `82.html`
@@ -81,6 +81,9 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `audio/relatos-en-ingles.html` — 12 seasons in catalog order (105 items)
   - `audio/relatos-en-ingles/temporada-1.html` … `temporada-12.html`
   - `audio/relatos-en-ingles/01.html` … `105.html`
+  - `audio/duolingo-spanish.html` — 20 seasons in catalog order (170 items; Spanish-learning)
+  - `audio/duolingo-spanish/temporada-1.html` … `temporada-20.html`
+  - `audio/duolingo-spanish/01.html` … `170.html`
 - `text/index.html` — Grammar & Reference hub
   - `text/alphabet.html` — English alphabet
   - `text/verb-tenses.html` — verb tenses (`play`)
