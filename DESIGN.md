@@ -94,5 +94,5 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
 - `text/index.html` — Grammar & Reference hub
   - `text/alphabet.html` — English alphabet
   - `text/verb-tenses.html` — verb tenses (`play`)
-  - `text/grammar.html` — grammar topic index (including legacy HTTP lesson links)
+  - `text/grammar.html` — grammar topic index (Mansión del Inglés HTTPS lesson links)
 - `resources/index.html` — Courses & Tests, including sites and legacy HTTP listings
