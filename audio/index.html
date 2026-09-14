@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Podcasts — English Resources</title>
+  <meta name="description" content="English Resources is a curated index of third-party English courses: video lessons, podcasts, grammar, and tests. Open a lesson in one tap.">
+  <meta name="theme-color" content="#f6f4ef">
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
   <link href="../assets/css/style.css" rel="stylesheet">
 </head>
@@ -12,14 +15,14 @@
   <header class="site-header sticky-top">
     <nav class="navbar navbar-expand-xl" aria-label="Main">
       <div class="container">
-        <a class="navbar-brand" href="../index.html">English Resources</a>
+        <a class="navbar-brand" href="../index.html"><img class="brand-mark" src="../assets/favicon.svg" alt="" aria-hidden="true" width="28" height="28">English Resources</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav" aria-controls="nav" aria-expanded="false" aria-label="Menu">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="nav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item"><a class="nav-link" href="../index.html"><span class="nav-icon nav-icon-home" aria-hidden="true"></span>Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="../video/index.html"><span class="nav-icon nav-icon-video" aria-hidden="true"></span>Video Courses</a></li>
+            <li class="nav-item"><a class="nav-link" href="../video/index.html"><span class="nav-icon nav-icon-video" aria-hidden="true"></span>Videos</a></li>
             <li class="nav-item"><a class="nav-link active" href="index.html" aria-current="page"><span class="nav-icon nav-icon-audio" aria-hidden="true"></span>Podcasts</a></li>
             <li class="nav-item"><a class="nav-link" href="../text/index.html"><span class="nav-icon nav-icon-grammar" aria-hidden="true"></span>Grammar &amp; Reference</a></li>
             <li class="nav-item"><a class="nav-link" href="../resources/index.html"><span class="nav-icon nav-icon-resources" aria-hidden="true"></span>Courses &amp; Tests</a></li>
@@ -32,8 +35,14 @@
 
   <main id="main-content" class="site-main">
     <div class="container">
+      <nav aria-label="Breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Podcasts</li>
+        </ol>
+      </nav>
       <h1 class="mb-3">Podcasts</h1>
-      <p class="lead-muted reading mb-4">Listen on iVoox or in your podcast app. Open a series, then a lesson.</p>
+      <p class="lead-muted reading mb-4">Listen on iVoox, Duolingo, or in your podcast app. Open a series, then a lesson.</p>
       <div class="row g-3">
         <div class="col-12 col-md-6 col-lg-4">
           <a class="hub-card" href="tu-ingles.html">
@@ -44,7 +53,7 @@
           </a>
         </div>
         <div class="col-12 col-md-6 col-lg-4">
-          <a class="hub-card" href="alema.html">
+          <a class="hub-card" href="alema-aprende-ingles.html">
             <img class="hub-thumb" src="https://static-1.ivoox.com/canales/961479937571gg.jpg" alt="" loading="lazy" width="1400" height="1400">
             <h2>Alema Aprende Inglés</h2>
             <p>Learn with a student as a teacher explains each point in Spanish.</p>
@@ -57,6 +66,22 @@
             <h2>Gramática Popular</h2>
             <p>Short grammar lessons compared with Spanish.</p>
             <p class="hub-meta">34 lessons · iVoox · 4–9 min each</p>
+          </a>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <a class="hub-card" href="duolingo-relatos-en-ingles.html">
+            <img class="hub-thumb" src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42254203/6b2f481c0552700e.png" alt="" loading="lazy" width="1400" height="1400">
+            <h2>Relatos en inglés con Duolingo</h2>
+            <p>Real-life stories in easy English, with Spanish context.</p>
+            <p class="hub-meta">105 episodes · Duolingo / Spotify · ~20–30 min each</p>
+          </a>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <a class="hub-card" href="duolingo-spanish.html">
+            <img class="hub-thumb" src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42252805/a73c3cdd068958de.png" alt="" loading="lazy" width="1400" height="1400">
+            <h2>Duolingo Spanish Podcast</h2>
+            <p>True stories in easy Spanish with English narration. For English speakers learning Spanish.</p>
+            <p class="hub-meta">170 episodes · Duolingo / Spotify · ~15–30 min each</p>
           </a>
         </div>
       </div>

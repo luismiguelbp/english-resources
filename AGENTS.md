@@ -4,6 +4,8 @@
 - Read [DESIGN.md](DESIGN.md) before changing pages, CSS, or links.
 - Discover skills under [`.agents/skills/`](.agents/skills/) and read the
   matching `SKILL.md` when the task fits. Do not load unused skills.
+  After adding, removing, or retitling pages, follow
+  [`.agents/skills/update-site/SKILL.md`](.agents/skills/update-site/SKILL.md).
 
 ## Engineering Principles
 

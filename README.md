@@ -16,7 +16,7 @@ Catalog of public English courses, tests, sites, and grammar for a static GitHub
 
 Open `index.html` in a browser. GitHub Pages will serve the site from the repository root.
 
-Pages: Home, Video Courses, Podcasts, Grammar & Reference, Courses & Tests; video series That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish; podcast series Tu Inglés, Alema, Gramática Popular; alphabet, verb tenses, and the grammar index.
+Pages: Home, Videos, Podcasts, Grammar & Reference, Courses & Tests; video series That's English, Vaughan Basic, Vaughan Definitive, Rumbo al inglés, Follow Me Beginner, Gomaespuminglish, SNL English Spanish; podcast series Tu Inglés, Alema, Gramática Popular, Relatos en inglés, Duolingo Spanish Podcast; alphabet, verb tenses, and the grammar index.
 
 Planned Pages URL: [luismiguelbp.github.io/english-resources](https://luismiguelbp.github.io/english-resources)
 
@@ -28,11 +28,14 @@ Planned Pages URL: [luismiguelbp.github.io/english-resources](https://luismiguel
 
 - `index.html` — Home
 - `search.html` — Search (filters `search.json` with `assets/js/search.js`)
-- `video/` — Video Courses hub and lesson series
+- `sitemap.xml` — One URL per HTML page
+- `feed.xml` — Catalog RSS of video and podcast series and lessons
+- `video/` — Videos hub and lesson series
 - `audio/` — Podcasts hub and lesson series
 - `text/` — Grammar & Reference: alphabet, verb tenses, grammar index
 - `resources/` — Courses & Tests from external sites
 - `assets/css/style.css` — Custom styles
+- `.agents/skills/update-site/` — Keep search, sitemap, and feed in sync
 - `AGENTS.md` — agent instructions
 - `DESIGN.md` — site UI and link rules
 - `LICENSE` — Unlicense
