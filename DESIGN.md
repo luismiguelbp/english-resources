@@ -14,9 +14,10 @@ UI rules for the static catalog. Follow this file when adding or changing pages,
 - Hub and Home cards may wrap 2 columns on tablet and 3 on desktop. Series, article, and resource lists stay one stacked column at every breakpoint.
 - Viewport meta on every HTML page: `width=device-width, initial-scale=1`.
 - Sticky or short top nav: Home, the main sections (Video Courses, Podcasts, Grammar & Reference, Courses & Tests), and Search. Keep nav labels in English.
+- Every non-home page has a static breadcrumb above `<h1>` (`aria-label="Breadcrumb"`). Home has no breadcrumb. Use relative links for the ancestor trail; the last item is the current page title, not a link, with `aria-current="page"`.
 - Prefer many short pages over one long scroll for series (one module, level, or block of lessons per page).
 - Use overview cards to open those smaller catalog pages. Use jump links only when a long page cannot be split naturally.
-- Lesson page chrome: title, duration if known, short objective, primary play/open link, Previous / Next.
+- Lesson page chrome: title, duration if known, short objective, Previous / Next pager, primary play/open link, and a matching Previous / Next pager after the player. The breadcrumb covers going up the catalog; pagers cover sequential movement.
 - Every page has a keyboard-visible skip link to the main content. Repeated navigation landmarks have distinct accessible labels.
 
 ## Links (YouTube and other apps)
