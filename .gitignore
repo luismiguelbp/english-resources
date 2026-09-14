@@ -1,0 +1,33 @@
+# Secrets (also mirrored in .cursorignore)
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.key
+*.token
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
