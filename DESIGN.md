@@ -96,3 +96,4 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
   - `text/verb-tenses.html` — verb tenses (`play`)
   - `text/grammar.html` — grammar topic index (Mansión del Inglés HTTPS lesson links)
 - `resources/index.html` — Courses & Tests, including word lists, sites, and legacy HTTP listings
+  - `resources/learnenglish-speaking.html` — British Council speaking (A1–B2, five lessons each)
