@@ -94,6 +94,7 @@ Publish legacy `http://` outbound links from the source notes when no HTTPS targ
 - `text/index.html` — Grammar & Reference hub
   - `text/alphabet.html` — English alphabet
   - `text/verb-tenses.html` — verb tenses (`play`)
+  - `text/youglish.html` — YouGlish selection (A1 search: All, US, UK)
   - `text/youglish-tenses.html` — YouGlish clips for eight common tenses (name, then a *walk* sentence; All, US, UK)
   - `text/grammar.html` — grammar topic index (Mansión del Inglés HTTPS lesson links)
 - `resources/index.html` — Courses & Tests, including word lists, sites, and legacy HTTP listings
