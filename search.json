@@ -2500,6 +2500,11 @@
     "section": "Videos"
   },
   {
+    "title": "LearnEnglish speaking",
+    "url": "resources/learnenglish-speaking.html",
+    "section": "Courses & Tests"
+  },
+  {
     "title": "Lesson 01 — Alema Aprende Inglés",
     "url": "audio/alema/01.html",
     "section": "Podcasts"
@@ -4693,6 +4698,16 @@
     "title": "WILL vs GOING TO — Rumbo al inglés",
     "url": "video/rumbo-al-ingles/18.html",
     "section": "Videos"
+  },
+  {
+    "title": "YouGlish common tenses",
+    "url": "text/youglish-tenses.html",
+    "section": "Grammar & Reference"
+  },
+  {
+    "title": "YouGlish selection",
+    "url": "text/youglish.html",
+    "section": "Grammar & Reference"
   },
   {
     "title": "¿Cuál es la diferencia entre THIS & THAT? — Rumbo al inglés",
